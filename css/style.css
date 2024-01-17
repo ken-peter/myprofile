@@ -225,7 +225,19 @@ section.resume-section .resume-item .resume-date {
 
 #about h1 {
     /*font-size: 100%;*/
+
+        color: #ffffff
 }
+
+#about p {
+    /*font-size: 100%;*/
+    color: #ffffff
+}
+#about h2 {
+    /*font-size: 100%;*/
+    color: #ffffff
+}
+
 
 /*==================================================
                     EXPERIENCE
