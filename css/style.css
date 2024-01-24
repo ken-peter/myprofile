@@ -452,6 +452,12 @@ section.resume-section .resume-item .resume-date {
     margin-top: 15px;
     margin-bottom: 1px;
 }
+.skill-item h5 {
+    color: #252323;
+    font-size: "hind", sans-serif;
+    font-size: 25px;
+    
+}
 
 .skill-item p {
     color: #fff;
